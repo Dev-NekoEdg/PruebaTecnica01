@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PruebaTecnica.Realpage.Users.Domain/1.0.0": {
+        "runtime": {
+          "PruebaTecnica.Realpage.Users.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebaTecnica.Realpage.Users.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

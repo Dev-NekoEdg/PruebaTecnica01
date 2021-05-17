@@ -1,0 +1,12 @@
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Infrastructure\bin\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Infrastructure.deps.json
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Infrastructure\bin\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Infrastructure.dll
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Infrastructure\bin\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Infrastructure.pdb
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Infrastructure\bin\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Domain.dll
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Infrastructure\bin\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Domain.pdb
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Infrastructure\obj\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Infrastructure.csprojAssemblyReference.cache
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Infrastructure\obj\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Infrastructure.AssemblyInfoInputs.cache
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Infrastructure\obj\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Infrastructure.AssemblyInfo.cs
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Infrastructure\obj\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Infrastructure.csproj.CoreCompileInputs.cache
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Infrastructure\obj\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Infrastructure.csproj.CopyComplete
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Infrastructure\obj\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Infrastructure.dll
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Infrastructure\obj\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Infrastructure.pdb

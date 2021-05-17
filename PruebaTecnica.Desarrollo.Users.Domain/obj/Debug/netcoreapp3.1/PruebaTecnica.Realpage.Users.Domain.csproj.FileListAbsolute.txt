@@ -1,0 +1,9 @@
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Domain\bin\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Domain.deps.json
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Domain\bin\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Domain.dll
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Domain\bin\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Domain.pdb
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Domain\obj\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Domain.AssemblyInfoInputs.cache
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Domain\obj\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Domain.AssemblyInfo.cs
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Domain\obj\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Domain.csproj.CoreCompileInputs.cache
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Domain\obj\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Domain.dll
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Domain\obj\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Domain.pdb
+D:\BackUp\Empresas\RealPage\PruebaTecnica.Realpage\PruebaTecnica.Realpage.Users.Domain\obj\Debug\netcoreapp3.1\PruebaTecnica.Realpage.Users.Domain.csprojAssemblyReference.cache
