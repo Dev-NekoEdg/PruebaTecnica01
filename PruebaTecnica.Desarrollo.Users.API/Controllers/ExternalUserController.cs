@@ -24,13 +24,17 @@ namespace PruebaTecnica.Desarrollo.Users.API.Controllers
 
         private readonly ICustomAuthentication authentication;
 
+        private readonly IExternalUserService externalUserService;
+
         public ExternalUserController(IExternalUserRepository repository, 
                                       IMapper mapper,
-                                      ICustomAuthentication authentication)
+                                      ICustomAuthentication authentication,
+                                      IExternalUserService externalUserService)
         {
             this.repository = repository;
             this.mapper = mapper;
             this.authentication = authentication;
+            this.externalUserService = externalUserService;
         }
 
         [HttpPost("token")]
@@ -51,6 +55,14 @@ namespace PruebaTecnica.Desarrollo.Users.API.Controllers
             }
 
             string rawResponse = authentication.GenerateToken(mapper.Map<UserModel>(foundUser));
+            return Ok(new { token = rawResponse });
+        }
+
+        [HttpPost("register")]
+        public IActionResult RegisterNewUser([FromBody]NewUserModel model) 
+        {
+            var rawResponse = externalUserService.RegisterAndLoginUser(model);
+
             return Ok(new { token = rawResponse });
         }
     }

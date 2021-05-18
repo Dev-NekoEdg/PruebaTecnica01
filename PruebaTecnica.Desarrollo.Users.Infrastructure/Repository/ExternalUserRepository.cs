@@ -65,7 +65,10 @@ namespace PruebaTecnica.Desarrollo.Users.Infrastructure.Repository
 
         public UserEntity RegisterNewUser(UserEntity user)
         {
-            throw new NotImplementedException();
+            context.User.Add(user);
+            context.SaveChanges();
+
+            return user;
         }
 
         public UserEntity GetUserByUserName(string userName)

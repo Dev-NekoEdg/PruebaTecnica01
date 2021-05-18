@@ -51,6 +51,18 @@ namespace PruebaTecnica.Desarrollo.Users.API.Infrastructure.Mapper
                           opt => opt.MapFrom(src => src.UserId)).
                 ForMember(dest=> dest.RoleName, 
                           opt => opt.MapFrom(src=> src.Role.Name));
+
+            CreateMap<NewUserModel, UserEntity>().
+                ConstructUsing(x=> 
+                                new UserEntity(string.Empty,
+                                               x.Name,
+                                               x.LastName,
+                                               x.UserName,
+                                               x.Password,
+                                               DateTime.Now,
+                                               x.RoleId,
+                                               true)).
+                                ForMember(dest => dest.Password, opt => opt.Ignore());
         }
     }
 }

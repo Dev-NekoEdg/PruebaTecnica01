@@ -41,7 +41,7 @@
         [Required]
         [Column("RolId")]
         [StringLength(50)]
-        [ForeignKey("RoleId")]
+        [ForeignKey("Rol.Id")]
         public string RoleId { get; private set; }
 
         public virtual RoleEntity Role { get; set; }
